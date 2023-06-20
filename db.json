@@ -2,9 +2,9 @@
   "videos": [
     {
       "id": 1,
-      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
-      "descricao": "3 mil visualizações",
-      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+      "titulo": "O que é e pra que serve a linguagem Go? #HipstersPontoDicas",
+      "descricao": "21 mil mil visualizações",
+      "url": "https://www.youtube.com/embed/KfCNyIrqjsg",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
@@ -23,16 +23,16 @@
     },
     {
       "id": 4,
-      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
-      "descricao": "2,5 mil visualizações",
-      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+      "titulo": "O que é Data Science? #HipstersPontoTube",
+      "descricao": "318 mil visualizações",
+      "url": "https://www.youtube.com/embed/5b9Z8toVaAU",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
       "id": 5,
-      "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
-      "descricao": "1,2 mil visualizações",
-      "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
+      "titulo": "Preciso fazer faculdade para trabalhar com programação e tecnologia? #HipstersPontoTube",
+      "descricao": "124 mil visualizações",
+      "url": "https://www.youtube.com/embed/jw06H8esyzQ",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
@@ -44,9 +44,9 @@
     },
     {
       "id": 7,
-      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
-      "descricao": "3,2 mil visualizações",
-      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "titulo": "Guia de carreira DATA SCIENCE | #HipstersPontoTube",
+      "descricao": "22 mil visualizações",
+      "url": "https://www.youtube.com/embed/7KhaiCC3fJQ",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
